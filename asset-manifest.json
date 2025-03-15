@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/Keeper-note-zeo/static/js/main.58d9d658.chunk.js",
+    "main.js.map": "/Keeper-note-zeo/static/js/main.58d9d658.chunk.js.map",
+    "runtime-main.js": "/Keeper-note-zeo/static/js/runtime-main.3dd5968f.js",
+    "runtime-main.js.map": "/Keeper-note-zeo/static/js/runtime-main.3dd5968f.js.map",
+    "static/js/2.cd3efc6a.chunk.js": "/Keeper-note-zeo/static/js/2.cd3efc6a.chunk.js",
+    "static/js/2.cd3efc6a.chunk.js.map": "/Keeper-note-zeo/static/js/2.cd3efc6a.chunk.js.map",
+    "index.html": "/Keeper-note-zeo/index.html",
+    "precache-manifest.8f2f35f3fd936cf0d228db0e2f4118b0.js": "/Keeper-note-zeo/precache-manifest.8f2f35f3fd936cf0d228db0e2f4118b0.js",
+    "service-worker.js": "/Keeper-note-zeo/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dd5968f.js",
+    "static/js/2.cd3efc6a.chunk.js",
+    "static/js/main.58d9d658.chunk.js"
+  ]
+}
